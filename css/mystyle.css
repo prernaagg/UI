@@ -4,6 +4,7 @@
                 flex-direction: row;
                 padding-left:195px;
                 padding-top: 44px;
+
             }
             *
             {
@@ -84,6 +85,7 @@
               z-index:900;
               left:195;
               right:0;
+              
           }
           .home
           {
@@ -118,7 +120,7 @@
           .create
           {
               margin: 0px 0px 15px 20px;
-              background: white;
+              background: whitesmoke;
               padding: 5px;
           }
           .search
@@ -520,6 +522,10 @@
                 width:185;
                 height:28;
                 margin: 5 0 0 5;
+            }
+            .font_style
+            {
+                font-weight:500;
             }
             .send 
             {
